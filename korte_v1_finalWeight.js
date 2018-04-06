@@ -1,5 +1,7 @@
 /*
-
+change barloader to class
+availablePairPlates should be dictionary
+var availablePairPlates = {"25":10, "20":10, "15":10, "10":10, "5":10,"2.5":10,"1.25":10}
 */
 var barLoader = {
   availablePairPlates: [25, 25, 20, 20, 15, 15, 10, 10, 5, 5, 2.5, 2.5, 1.25, 1.25],
