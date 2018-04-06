@@ -1,0 +1,6 @@
+
+1) Used var object (barLoader) does not allow object instantiation. 
+Copy of this object by 'var copy = Object.assign({}, originalObj);' makes 
+
+
+availablePairPlates variable should be different
